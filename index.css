@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+}
+
+h1 {
+    padding: 20px 40px;
+    color: red;
+    font-size: 3rem;
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+
+.declare {
+    background-color: #1B244A;
+    padding: 20px 10px 40px 10px;
+    color: white;
+    text-align: center
+}
+
+.btn {
+    background-color: #1B244A;
+    border: solid 1px white;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 10px;
+    margin: 5px;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1B244A;
+    color: white;
+    text-align: center;
+    padding-bottom: 15%;
+}
+
+.score-space {
+    background-color: black;
+}
+
